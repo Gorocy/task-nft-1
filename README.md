@@ -8,7 +8,7 @@ anchor build
 
 ## IDL
 
-Znajdz w target folder idl *.json* zawierający idl smart contact
+Znajdz w target folder `idl` z *.json* zawierający idl smart contact
 
 Plik potrzeba zaimportować do frontendu by stworzyć obiekt program z odpowiednimi metodami
 
@@ -42,4 +42,8 @@ Jeśli jest wszystko poprawne to w portfele na sieci Devnet pojawi się nft z im
 
 stworz fork - oddanie ma zostać przez pull request z udaną transakcją nft z Devnet
 
-* Stworzenie upload img z frontend zamiast url
+zadanie z gwiazką 
+
+1. Stworzenie upload img z frontend zamiast url
+
+2. Dodać własną funkcjonalność - nic nie podane w celu własnej kreatywności z uwagi bycia zadaniem dodatkowym
